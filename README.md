@@ -1,2 +1,2 @@
-# flutter projects
-All my flutter projects are here
+
+This is a simple flutter UI that shows a list of movies 
